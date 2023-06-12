@@ -1,7 +1,7 @@
 
 # Tour Travels
 
-A Website to select tour for the vacations, which is build on React.js 
+A Website to select tour for the vacations, built on React.js where your can remove the tour which you are not interested in.
 ## Demo
 
 https://github.com/tanmayR18/travel-tour/assets/135257857/f2357a13-2b77-44a0-bb3b-ed56885f5ee6
